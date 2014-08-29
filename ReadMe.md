@@ -1,0 +1,1 @@
+Some unofficial samples for Azure WebJobs SDK
